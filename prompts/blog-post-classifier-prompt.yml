@@ -1,0 +1,7 @@
+_type: prompt
+input_variables:
+  - blog_post
+template: |
+  Please classify the following blog post into topics and interests:
+  
+  {blog_post}
